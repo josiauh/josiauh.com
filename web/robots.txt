@@ -1,8 +1,5 @@
 User-Agent: *
 Allow: /
 
-User-Agent: pomni
-Disallow: exit
-
-User-Agent: bergens
-Disallow: trolls
+User-Agent: TennisBall
+Disallow: yoylite
